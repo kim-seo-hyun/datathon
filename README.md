@@ -35,14 +35,20 @@
 - dataset3)Netflix Original Films & IMDB Scores: https://www.kaggle.com/luiscorter/netflix-original-films-imdb-scores
 
 ### Data organization
-1) 내용적 측면: 시간에 따른 자극적인 콘텐츠 변화 추이
+1) 내용적 측면: 시간에 따른 자극적인 콘텐츠 변화 추이를 살펴보고 장르,등급,시간 간의 상관관계 분석
   - 비고) main_df.csv 활용
-  - 등급, 장르 등으로 확인
+  - 결측치 삭제/ 장르와 등급를 3-6가지로 줄여서 진행
+  - 컨텐츠 장르와 등급의 분포 시각화(도넛차트)
+  - 시간 변화에 따른 등급과 장르을 기준으로 총작품 갯수의 변화(점그래프)
+  - 최근 추가된 작품 장르와 등급 키워드 시각화(워드 클라우드)
+  - 최종: 시간이 지나면서 자극적(등급이 높고, 장르가 폭력적인)인 컨텐츠가 증가하였는가? (산점도 분석)
+  
 2) 구조적 측면: 넷플릭스 오리지널 콘텐츠에 따른 변화 추이
   - 비고) original.csv 활용
   - 넷플릭스 오리지널수의 증감 추이
   - 오리지널과 오리지널이 아닌 콘텐츠의 비교
   - 오리지널과 국가간의 상관관계 등
+  
 3) 시장 측면: 국가(대륙) 간 상관관계 분석
   - 비고) cont_df.csv, NetflixsRevenue2018toQ2_2020.csv, NetflixSubscribersbyCountryfrom2018toQ2_2020.csv 활용
   - 수익, 구독자 수와의 상관관계 분석
