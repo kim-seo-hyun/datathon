@@ -40,7 +40,7 @@
 3)
 
 ### Data Modeling Relationship
-
+![dataset_relationship](https://user-images.githubusercontent.com/87296126/157394791-27f7fc01-9b73-4240-977f-901113fa46e0.jpg)
 
 ### 분석 목표에 따른 분석 기법
 
