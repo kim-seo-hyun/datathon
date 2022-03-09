@@ -28,11 +28,21 @@
 
 ![데이터분석](https://user-images.githubusercontent.com/87296126/157386982-086507e9-5101-4daa-b271-6b8d5ef4d24e.jpg)
 
+### 수집 데이터
+
 - dataset1)Netflix Movies and TV Shows: https://www.kaggle.com/shivamb/netflix-shows?select=netflix_titles.csv
 - dataset2)Netflix subscribers and revenue by country: https://www.kaggle.com/pariaagharabi/netflix2020
 - dataset3)Netflix Original Films & IMDB Scores: https://www.kaggle.com/luiscorter/netflix-original-films-imdb-scores
 
-## 분석 목표에 따른 분석 기법
+### Data organization
+1)
+2)
+3)
+
+### Data Modeling Relationship
+
+
+### 분석 목표에 따른 분석 기법
 
 | 분석목표 | 설명 | 통계적 분석 기법 | ✔
 |---|:---:|:---:|:---:|
@@ -45,3 +55,14 @@
 대상들을 여러 기준값들에 따라 분류하고, 다차원 공간에 배치 | 측정값과 차원들이 있을 때 차원들의 값을 기준으로 측정값들 사이의 거리를 계싼해 적절하게 그룹을 짓고, 이 거리가 의미있는 차원들로 축을 구성한 다차원 공간에 측정값들을 배치 | 군집분석, 다차원척도법(MDS) | ✔
 차원들의 패턴이 비슷한 측정값과 그렇지 않은 측정값을 분류 | 예를들어, 설문 항복에 대한 답변들의 패턴에 따라 비슷한 답변을 한 응답자와 그렇지 않은 응답자를 분류 | 대응분석
 시간의 흐름에 따라 변하는 데이터를 분석할 수 있는 모델의 도출 | 시계열 데이터에 영향을 주는 요인을 추세요인, 계절요인, 순환요인, 불규칙요인으로 분해해서 시계열 데이터를 가장 잘 설명할 수 있는 모델을 만들고, 이 모델을 통해 미래에 대해서도 예측 | 시계열 분석 | ✔
+
+### Data visualization
+
+- toolbox: matplotlib, seaborn, plotly, volia
+- 시간 시각화 : 막대그래프, 누적 막대 그래프, 점 그래프
+- 분포 시각화 : 원그래프(파이차트), 도넛차트, 트리맵, 누적 연속 그래프분포
+- 관계 시각화 : 스캐터 플롯(산점도), 버블 차트, 히스토그램
+- 비교 시각화 : 히트맵, 체르노프 페이스, 스타차트, 평행좌표계, 다차원척도법
+- 공간 시각화 : 지도 매핑
+
+## Finish
