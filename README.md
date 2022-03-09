@@ -35,9 +35,17 @@
 - dataset3)Netflix Original Films & IMDB Scores: https://www.kaggle.com/luiscorter/netflix-original-films-imdb-scores
 
 ### Data organization
-1)
-2)
-3)
+1) 내용적 측면: 시간에 따른 자극적인 콘텐츠 변화 추이
+  - 비고) main_df.csv 활용
+  - 등급, 장르 등으로 확인
+2) 구조적 측면: 넷플릭스 오리지널 콘텐츠에 따른 변화 추이
+  - 비고) original.csv 활용
+  - 넷플릭스 오리지널수의 증감 추이
+  - 오리지널과 오리지널이 아닌 콘텐츠의 비교
+  - 오리지널과 국가간의 상관관계 등
+3) 시장 측면: 국가(대륙) 간 상관관계 분석
+  - 비고) cont_df.csv, NetflixsRevenue2018toQ2_2020.csv, NetflixSubscribersbyCountryfrom2018toQ2_2020.csv 활용
+  - 수익, 구독자 수와의 상관관계 분석
 
 ### Data Modeling Relationship
 ![dataset_relationship](https://user-images.githubusercontent.com/87296126/157394791-27f7fc01-9b73-4240-977f-901113fa46e0.jpg)
