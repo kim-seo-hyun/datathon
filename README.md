@@ -1,6 +1,6 @@
 # datathon
 
-<h3 align="center"> Aiffel YJ2th Datathon Neflix 1조 ❤weddingpeach❤ </h3>
+<h3 align="center"> Aiffel YJ2th Datathon Netflix 1조 ❤weddingpeach❤ </h3>
 
 <div align="center">
   
