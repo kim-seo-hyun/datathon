@@ -81,6 +81,4 @@
 
 ## Finish
 
-참고)
-- process: https://brunch.co.kr/@data/10
-- 시각화: https://mizykk.tistory.com/61
+
