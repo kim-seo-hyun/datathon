@@ -54,7 +54,7 @@
   - 수익, 구독자 수와의 상관관계 분석
 
 ### Data Modeling Relationship
-![dataset_relationship](https://user-images.githubusercontent.com/87296126/157394791-27f7fc01-9b73-4240-977f-901113fa46e0.jpg)
+![dataset_relationship_finish](https://user-images.githubusercontent.com/87296126/157676078-5ed215f8-1d43-4445-98d7-94d4fd79cad2.jpg)
 
 ### 분석 목표에 따른 분석 기법
 
